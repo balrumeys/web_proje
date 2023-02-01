@@ -154,7 +154,7 @@
               <span class="text-align-center w100">- ya da -</span>
               <div class="m-row">
                 <button
-                  onclick='window.location.href="/Uye/KayitOl";'
+                  onclick='window.location.href="/Uye/register";'
                   class="btn-sign-up"
                 >
                   <span>Kayıt Ol </span>
